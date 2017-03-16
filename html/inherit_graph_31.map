@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interface_shooter_components_1_1_fighter_1_1_bullet_factory.html" title="abstract factory of Bullet for Fighter " alt="" coords="5,5,195,47"/>
+<area shape="rect" id="node2" href="$class_shooter_factories_1_1_plane_bullet_factory.html" title="factory for the plane Bullet " alt="" coords="243,5,433,47"/>
+</map>

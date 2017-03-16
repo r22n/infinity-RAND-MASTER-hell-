@@ -1,0 +1,6 @@
+<map id="GameComponents.Label" name="GameComponents.Label">
+<area shape="rect" id="node5" href="$class_game_components_1_1_score_board.html" title="draws numbers such as score, level etc " alt="" coords="107,244,309,271"/>
+<area shape="rect" id="node2" href="$class_game_components_1_1_component_container.html" title="the container solution that can contain some Component objects " alt="" coords="107,80,309,121"/>
+<area shape="rect" id="node3" href="$class_game_components_1_1_component.html" title="universal type Component for ComponentContainer " alt="" coords="5,5,208,32"/>
+<area shape="rect" id="node6" href="$class_game_components_1_1_progress_bar.html" title="draws the progress bar in the screen " alt="" coords="105,319,311,345"/>
+</map>

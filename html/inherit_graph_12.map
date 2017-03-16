@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interface_game_components_1_1_factory.html" title="generic abstract factory pattern object " alt="" coords="5,209,216,235"/>
+<area shape="rect" id="node2" href="$class_shooter_factories_1_1_auto_fighter_factory.html" title="auto move enemy factory " alt="" coords="273,5,465,47"/>
+<area shape="rect" id="node3" href="$class_shooter_factories_1_1_bullet_a_drawer_factory.html" title="makes bullet drawer of BulletA " alt="" coords="265,71,474,112"/>
+<area shape="rect" id="node4" href="$class_shooter_factories_1_1_destroy_screen_shaker_factory.html" title="the factory creates screen shaker " alt="" coords="284,136,455,177"/>
+<area shape="rect" id="node5" href="$class_shooter_factories_1_1_plane_circle_destroy_effect_factory.html" title="circle destroy effect factory " alt="" coords="273,201,465,243"/>
+<area shape="rect" id="node6" href="$class_shooter_factories_1_1_random_bound_factory.html" title="makes rectangle randomly " alt="" coords="264,267,475,308"/>
+<area shape="rect" id="node7" href="$class_shooter_factories_1_1_straight_bullet_move_factory.html" title="straight bullet move strategy factory " alt="" coords="284,332,455,373"/>
+<area shape="rect" id="node8" href="$class_shooter_factories_1_1_test_my_fighter_factory.html" title="my fighter factory " alt="" coords="265,397,474,439"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ShooterUpdater.MyFighterShotUpdater" name="ShooterUpdater.MyFighterShotUpdater">
+<area shape="rect" id="node2" href="$interface_shooter_components_1_1_game_character_updater.html" title="update strategy of GameCharacter " alt="" coords="5,5,243,47"/>
+<area shape="rect" id="node3" href="$interface_game_components_1_1_key_bridge_1_1_listener.html" title="the listener will be notified events from KeyBridge " alt="" coords="25,71,223,112"/>
+<area shape="rect" id="node4" href="$interface_shooter_drawers_1_1_i_effect.html" title="generic effect type " alt="" coords="45,137,203,163"/>
+</map>

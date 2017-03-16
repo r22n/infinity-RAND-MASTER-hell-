@@ -1,0 +1,5 @@
+<map id="AwtInputBridges.AwtMouseBridge" name="AwtInputBridges.AwtMouseBridge">
+<area shape="rect" id="node2" href="$class_game_components_1_1_mouse_bridge.html" title="the bridge of mouse " alt="" coords="507,31,717,57"/>
+<area shape="rect" id="node3" href="$class_game_components_1_1_component_container.html" title="the container solution that can contain some Component objects " alt="" coords="256,23,459,65"/>
+<area shape="rect" id="node4" href="$class_game_components_1_1_component.html" title="universal type Component for ComponentContainer " alt="" coords="5,5,208,32"/>
+</map>

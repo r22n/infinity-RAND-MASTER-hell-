@@ -1,0 +1,8 @@
+<map id="GameScenes.Scene.Visitor" name="GameScenes.Scene.Visitor">
+<area shape="rect" id="node2" href="$class_tests_1_1_auto_fighter_factory_test.html" title="Tests.AutoFighterFactoryTest" alt="" coords="236,5,432,32"/>
+<area shape="rect" id="node3" href="$class_tests_1_1_awt_keyboard_input_test.html" title="Tests.AwtKeyboardInputTest" alt="" coords="238,56,430,83"/>
+<area shape="rect" id="node4" href="$class_tests_1_1_awt_mouse_input_test.html" title="Tests.AwtMouseInputTest" alt="" coords="246,107,422,133"/>
+<area shape="rect" id="node5" href="$class_tests_1_1_my_fighter_factory_test.html" title="Tests.MyFighterFactoryTest" alt="" coords="241,157,427,184"/>
+<area shape="rect" id="node6" href="$class_tests_1_1_my_fighter_test.html" title="Tests.MyFighterTest" alt="" coords="263,208,405,235"/>
+<area shape="rect" id="node7" href="$class_tests_1_1_test_scene.html" title="Tests.TestScene" alt="" coords="273,259,395,285"/>
+</map>

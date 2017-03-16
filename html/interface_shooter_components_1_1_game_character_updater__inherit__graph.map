@@ -1,0 +1,10 @@
+<map id="ShooterComponents.GameCharacterUpdater" name="ShooterComponents.GameCharacterUpdater">
+<area shape="rect" id="node2" href="$class_shooter_updater_1_1_bullet_move.html" title="bullet move strategy " alt="" coords="317,5,499,32"/>
+<area shape="rect" id="node3" href="$class_shooter_updater_1_1_bullet_out_of_bound.html" title="checks that Bullet object moved out " alt="" coords="323,57,493,98"/>
+<area shape="rect" id="node4" href="$class_shooter_updater_1_1_constant_interval_shooter.html" title="auto shot for enemy " alt="" coords="301,122,515,163"/>
+<area shape="rect" id="node5" href="$class_shooter_updater_1_1_my_fighter_move.html" title="my fighter move updater with keyboard " alt="" coords="305,188,511,215"/>
+<area shape="rect" id="node6" href="$class_shooter_updater_1_1_my_fighter_shot_updater.html" title="makes my Fighter shot with keyboard input " alt="" coords="321,239,495,281"/>
+<area shape="rect" id="node7" href="$class_shooter_updater_1_1_out_of_bound_check.html" title="checking out of bound " alt="" coords="313,305,503,346"/>
+<area shape="rect" id="node8" href="$class_shooter_updater_1_1_range_to_bound.html" title="force the GameCharacter range into bounds as the rectangle type " alt="" coords="305,371,511,397"/>
+<area shape="rect" id="node9" href="$class_shooter_updater_1_1_straight_fighter_move.html" title="straight move updater for Fighter " alt="" coords="291,421,525,448"/>
+</map>

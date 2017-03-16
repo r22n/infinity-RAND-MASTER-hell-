@@ -1,0 +1,20 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$class_awt_input_bridges_1_1_awt_key_bridge.html" title="simple Adapter from KeyListener to KeyBridge.Listener " alt="" coords="799,56,1004,83"/>
+<area shape="rect" id="node3" href="$interface_game_components_1_1_collisionable.html" title="generic collision area type object bridge " alt="" coords="521,494,730,535"/>
+<area shape="rect" id="node4" href="$class_shooter_components_1_1_collisionable_game_character.html" title="the game character that can collide with other object " alt="" coords="792,465,1011,506"/>
+<area shape="rect" id="node5" href="$class_game_components_1_1_component.html" title="universal type Component for ComponentContainer " alt="" coords="5,327,208,353"/>
+<area shape="rect" id="node6" href="$class_game_components_1_1_collision_container.html" title="the container of Collisionable type manages notifications to Collision " alt="" coords="265,311,450,353"/>
+<area shape="rect" id="node7" href="$class_game_components_1_1_component_container.html" title="the container solution that can contain some Component objects " alt="" coords="256,377,459,418"/>
+<area shape="rect" id="node8" href="$class_game_components_1_1_key_bridge.html" title="bridge adapter of keyboard that cab notify to listener " alt="" coords="528,5,723,32"/>
+<area shape="rect" id="node9" href="$class_game_components_1_1_label.html" title="the label component that draws text in the screen " alt="" coords="542,611,709,637"/>
+<area shape="rect" id="node12" href="$class_game_components_1_1_line.html" title="the line for drawing the line segment in the screen " alt="" coords="546,560,705,587"/>
+<area shape="rect" id="node13" href="$class_game_components_1_1_mouse_bridge.html" title="the bridge of mouse " alt="" coords="520,325,731,352"/>
+<area shape="rect" id="node15" href="$class_game_components_1_1_screen_shaker.html" title="shakes screen such as destroy effect etc " alt="" coords="517,661,734,688"/>
+<area shape="rect" id="node16" href="$class_game_components_1_1_timer.html" title="notify after the specified time " alt="" coords="541,56,709,83"/>
+<area shape="rect" id="node17" href="$class_shooter_components_1_1_auto_enemy_factory.html" title="auto straight move and auto n&#45;way shot enemy factory " alt="" coords="519,259,732,301"/>
+<area shape="rect" id="node18" href="$class_shooter_components_1_1_game_character.html" title="the basic game character that exposes in the screen and updates strategy " alt="" coords="507,443,744,469"/>
+<area shape="rect" id="node19" href="$class_shooter_components_1_1_shooter_collision_container.html" title="manages collision of Fighter and Bullet " alt="" coords="530,377,721,418"/>
+<area shape="rect" id="node10" href="$class_game_components_1_1_score_board.html" title="draws numbers such as score, level etc " alt="" coords="800,611,1003,637"/>
+<area shape="rect" id="node11" href="$class_game_components_1_1_progress_bar.html" title="draws the progress bar in the screen " alt="" coords="1059,611,1265,637"/>
+<area shape="rect" id="node14" href="$class_awt_input_bridges_1_1_awt_mouse_bridge.html" title="simple adapter from MouseListener to MouseBridge.Listener " alt="" coords="809,201,993,242"/>
+</map>

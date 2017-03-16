@@ -14,4 +14,3 @@ If other one could get higher scores, you should say that you are lucky !.
 MOVE : ARROW KEYS  
 SHOT : X KEY  
 BEAM : Z+X KEY  
-# infinity-RAND-MASTER-hell-

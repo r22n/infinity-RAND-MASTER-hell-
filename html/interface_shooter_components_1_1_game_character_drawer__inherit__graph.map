@@ -1,0 +1,11 @@
+<map id="ShooterComponents.GameCharacterDrawer" name="ShooterComponents.GameCharacterDrawer">
+<area shape="rect" id="node2" href="$class_shooter_drawers_1_1_bullet_a.html" title="draws circle for Bullet " alt="" coords="315,5,477,32"/>
+<area shape="rect" id="node3" href="$class_shooter_drawers_1_1_circle_expand_destroy_effect.html" title="draws expending circle that is not filled " alt="" coords="297,57,495,98"/>
+<area shape="rect" id="node4" href="$class_shooter_drawers_1_1_component_bound.html" title="draws rectangle at the GameCharacter " alt="" coords="303,122,489,163"/>
+<area shape="rect" id="node5" href="$class_shooter_drawers_1_1_component_circle.html" title="draws single circle at the GameCharacter position in the screen " alt="" coords="303,187,489,229"/>
+<area shape="rect" id="node6" href="$class_shooter_drawers_1_1_fighter_a.html" title="draws the Fighter character in the screen " alt="" coords="311,253,481,280"/>
+<area shape="rect" id="node7" href="$class_shooter_drawers_1_1_my_fighter_base.html" title="draws my container that hold in the sky " alt="" coords="292,304,500,331"/>
+<area shape="rect" id="node8" href="$class_shooter_drawers_1_1_my_fighter_u_a_v.html" title="draws UAV at around my Fighter " alt="" coords="293,355,499,381"/>
+<area shape="rect" id="node9" href="$class_shooter_drawers_1_1_particle_destroy_effect.html" title="plays destroy effect that scatters some circles " alt="" coords="291,406,501,447"/>
+<area shape="rect" id="node10" href="$class_shooter_drawers_1_1_particle_jet_effect.html" title="draws jet effect of Fighter with many circles as particle " alt="" coords="305,471,487,513"/>
+</map>

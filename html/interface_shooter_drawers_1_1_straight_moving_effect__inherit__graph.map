@@ -1,0 +1,5 @@
+<map id="ShooterDrawers.StraightMovingEffect" name="ShooterDrawers.StraightMovingEffect">
+<area shape="rect" id="node3" href="$class_shooter_drawers_1_1_my_fighter_base.html" title="draws my container that hold in the sky " alt="" coords="5,177,213,203"/>
+<area shape="rect" id="node4" href="$class_shooter_drawers_1_1_particle_destroy_effect.html" title="plays destroy effect that scatters some circles " alt="" coords="237,169,448,211"/>
+<area shape="rect" id="node2" href="$interface_shooter_drawers_1_1_i_effect.html" title="generic effect type " alt="" coords="146,5,305,32"/>
+</map>

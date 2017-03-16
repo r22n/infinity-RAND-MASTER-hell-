@@ -1,0 +1,24 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interface_shooter_components_1_1_game_character_drawer.html" title="render strategy of GameCharacter " alt="" coords="5,190,243,231"/>
+<area shape="rect" id="node2" href="$class_shooter_drawers_1_1_bullet_a.html" title="draws circle for Bullet " alt="" coords="327,256,489,283"/>
+<area shape="rect" id="node3" href="$class_shooter_drawers_1_1_circle_expand_destroy_effect.html" title="draws expending circle that is not filled " alt="" coords="309,307,507,349"/>
+<area shape="rect" id="node4" href="$class_shooter_drawers_1_1_component_bound.html" title="draws rectangle at the GameCharacter " alt="" coords="315,373,501,414"/>
+<area shape="rect" id="node5" href="$class_shooter_drawers_1_1_component_circle.html" title="draws single circle at the GameCharacter position in the screen " alt="" coords="315,438,501,479"/>
+<area shape="rect" id="node6" href="$class_shooter_drawers_1_1_fighter_a.html" title="draws the Fighter character in the screen " alt="" coords="323,88,493,115"/>
+<area shape="rect" id="node7" href="$class_shooter_drawers_1_1_my_fighter_base.html" title="draws my container that hold in the sky " alt="" coords="575,104,783,131"/>
+<area shape="rect" id="node8" href="$class_shooter_drawers_1_1_my_fighter_u_a_v.html" title="draws UAV at around my Fighter " alt="" coords="305,139,511,165"/>
+<area shape="rect" id="node9" href="$class_shooter_drawers_1_1_particle_destroy_effect.html" title="plays destroy effect that scatters some circles " alt="" coords="573,387,784,429"/>
+<area shape="rect" id="node10" href="$class_shooter_drawers_1_1_particle_jet_effect.html" title="draws jet effect of Fighter with many circles as particle " alt="" coords="317,190,499,231"/>
+<area shape="rect" id="node11" href="$interface_shooter_components_1_1_game_character_updater.html" title="update strategy of GameCharacter " alt="" coords="5,770,243,811"/>
+<area shape="rect" id="node12" href="$class_shooter_updater_1_1_bullet_move.html" title="bullet move strategy " alt="" coords="317,803,499,829"/>
+<area shape="rect" id="node13" href="$class_shooter_updater_1_1_bullet_out_of_bound.html" title="checks that Bullet object moved out " alt="" coords="323,854,493,895"/>
+<area shape="rect" id="node14" href="$class_shooter_updater_1_1_constant_interval_shooter.html" title="auto shot for enemy " alt="" coords="301,686,515,727"/>
+<area shape="rect" id="node15" href="$class_shooter_updater_1_1_my_fighter_move.html" title="my fighter move updater with keyboard " alt="" coords="305,569,511,596"/>
+<area shape="rect" id="node16" href="$class_shooter_updater_1_1_my_fighter_shot_updater.html" title="makes my Fighter shot with keyboard input " alt="" coords="321,621,495,662"/>
+<area shape="rect" id="node17" href="$class_shooter_updater_1_1_out_of_bound_check.html" title="checking out of bound " alt="" coords="313,919,503,961"/>
+<area shape="rect" id="node18" href="$class_shooter_updater_1_1_range_to_bound.html" title="force the GameCharacter range into bounds as the rectangle type " alt="" coords="305,985,511,1012"/>
+<area shape="rect" id="node19" href="$class_shooter_updater_1_1_straight_fighter_move.html" title="straight move updater for Fighter " alt="" coords="291,752,525,779"/>
+<area shape="rect" id="node20" href="$interface_shooter_drawers_1_1_i_effect.html" title="generic effect type " alt="" coords="45,380,203,407"/>
+<area shape="rect" id="node21" href="$interface_shooter_drawers_1_1_straight_moving_effect.html" title="bridge for the straight moving effect with initial position " alt="" coords="305,503,511,545"/>
+<area shape="rect" id="node22" href="$interface_game_components_1_1_key_bridge_1_1_listener.html" title="the listener will be notified events from KeyBridge " alt="" coords="25,621,223,662"/>
+</map>

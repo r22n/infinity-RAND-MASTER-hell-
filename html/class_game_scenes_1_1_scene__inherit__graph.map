@@ -1,0 +1,5 @@
+<map id="GameScenes.Scene" name="GameScenes.Scene">
+<area shape="rect" id="node2" href="$class_shooter_scenes_1_1_fight_scene.html" title="fight scene " alt="" coords="5,80,187,107"/>
+<area shape="rect" id="node3" href="$class_shooter_scenes_1_1_menu_scene.html" title="menu scene that display title " alt="" coords="211,80,395,107"/>
+<area shape="rect" id="node4" href="$class_shooter_scenes_1_1_start_scene.html" title="start scene that contains author name " alt="" coords="419,80,599,107"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="shooter.Main" name="shooter.Main">
+<area shape="rect" id="node4" href="$interface_game_components_1_1_i_screen_draw_pos.html" title="bridge of the screen image drawing offset " alt="" coords="5,107,240,133"/>
+<area shape="rect" id="node5" href="$interface_game_components_1_1_i_observer.html" title="GameComponents.IObserver\l\&lt; KeyListener \&gt;" alt="" coords="27,158,219,199"/>
+</map>

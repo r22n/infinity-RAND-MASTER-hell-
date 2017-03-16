@@ -1,0 +1,6 @@
+<map id="ShooterComponents.LifeCharacter" name="ShooterComponents.LifeCharacter">
+<area shape="rect" id="node4" href="$class_shooter_components_1_1_bullet.html" title="bullet character " alt="" coords="5,259,184,285"/>
+<area shape="rect" id="node5" href="$class_shooter_components_1_1_fighter.html" title="the fighter character that is shooter to destroy other fighter " alt="" coords="209,259,394,285"/>
+<area shape="rect" id="node2" href="$class_shooter_components_1_1_hitable_game_character.html" title="the GameCharacter that was tuned into Collisionable of Rectangle " alt="" coords="104,95,291,136"/>
+<area shape="rect" id="node3" href="$class_shooter_components_1_1_collisionable_game_character.html" title="ShooterComponents.Collisionable\lGameCharacter\&lt; Rect, Circle \&gt;" alt="" coords="88,5,307,47"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ShooterComponents.CollisionableGameCharacter&lt; T, U &gt;" name="ShooterComponents.CollisionableGameCharacter&lt; T, U &gt;">
+<area shape="rect" id="node2" href="$class_shooter_components_1_1_game_character.html" title="the basic game character that exposes in the screen and updates strategy " alt="" coords="89,177,327,203"/>
+<area shape="rect" id="node3" href="$class_game_components_1_1_component_container.html" title="the container solution that can contain some Component objects " alt="" coords="107,80,309,121"/>
+<area shape="rect" id="node4" href="$class_game_components_1_1_component.html" title="universal type Component for ComponentContainer " alt="" coords="5,5,208,32"/>
+<area shape="rect" id="node6" href="$interface_game_components_1_1_collisionable.html" title="generic collision area type object bridge " alt="" coords="351,169,564,211"/>
+</map>

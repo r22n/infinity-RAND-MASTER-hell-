@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_shooter_components_1_1_collisionable_game_character.html" title="ShooterComponents.Collisionable\lGameCharacter\&lt; Rect, Circle \&gt;" alt="" coords="5,5,224,47"/>
+<area shape="rect" id="node2" href="$class_shooter_components_1_1_hitable_game_character.html" title="the GameCharacter that was tuned into Collisionable of Rectangle " alt="" coords="272,5,459,47"/>
+<area shape="rect" id="node3" href="$class_shooter_components_1_1_life_character.html" title="life character that can die with life " alt="" coords="507,13,729,39"/>
+<area shape="rect" id="node4" href="$class_shooter_components_1_1_bullet.html" title="bullet character " alt="" coords="781,13,959,39"/>
+<area shape="rect" id="node5" href="$class_shooter_components_1_1_fighter.html" title="the fighter character that is shooter to destroy other fighter " alt="" coords="777,67,963,94"/>
+<area shape="rect" id="node6" href="$interface_shooter_components_1_1_bullet_1_1_listener.html" title="handler of bullet " alt="" coords="527,64,709,105"/>
+</map>
