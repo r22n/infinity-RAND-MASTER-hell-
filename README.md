@@ -14,3 +14,8 @@ If other one could get higher scores, you should say that you are lucky !.
 MOVE : ARROW KEYS  
 SHOT : X KEY  
 BEAM : Z+X KEY  
+
+*HOW TO EXECUTE*  
+1. download zip file and extract  
+2. cd shooter/bin
+3. java shooter.Main
